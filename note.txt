@@ -1,0 +1,9 @@
+npm install node-modules
+
+npm install react-bootstrap
+
+npm install mdb-react-ui-kit
+
+npm install @mui/icons-material
+
+npm install axios react-file-base64 react-toastify react-router-dom @emotion/styled sass 
